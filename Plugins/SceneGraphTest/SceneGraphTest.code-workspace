@@ -1,0 +1,56 @@
+{
+    "folders": [
+        {
+            "name": "SceneGraphTest",
+            "path": "D:/DEVELOP/UEFN/SceneGraphTest/Plugins/SceneGraphTest/Content"
+        },
+        {
+            "name": "SceneGraphTest/Assets",
+            "path": "C:/Users/noban/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/SceneGraphTest/SceneGraphTest-Assets"
+        },
+        {
+            "name": "vproject - DO NOT MODIFY",
+            "path": "C:/Users/noban/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/SceneGraphTest/vproject"
+        },
+        {
+            "name": "Verse",
+            "path": "C:/Users/noban/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/SceneGraphTest/Verse"
+        },
+        {
+            "name": "UnrealEngine",
+            "path": "C:/Users/noban/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/SceneGraphTest/UnrealEngine"
+        },
+        {
+            "name": "Fortnite",
+            "path": "C:/Users/noban/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/SceneGraphTest/Fortnite"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/*.uasset": true,
+            "**/*.umap": true,
+            "**/*.png": true,
+            "**/*.jpg": true,
+            "**/*.tga": true,
+            "_INT": true,
+            "**/*.vproject": true,
+            "__ExternalActors__": true,
+            "__ExternalObjects__": true
+        },
+        "files.autoSave": "onWindowChange",
+        "workbench.colorTheme": "Verse (Dark)",
+        "editor.bracketPairColorization.enabled": false,
+        "editor.acceptSuggestionOnEnter": "off"
+    },
+    "launch": {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "Verse Debug",
+                "type": "verse",
+                "request": "attach",
+                "debugServer": 1961
+            }
+        ]
+    }
+}
